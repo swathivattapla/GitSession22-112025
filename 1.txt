@@ -1,2 +1,2 @@
-Hey hi, My name is devipriya
-saka
+Hey hi
+this is hello world program
